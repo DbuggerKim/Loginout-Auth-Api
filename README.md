@@ -18,7 +18,7 @@
 
 - 인증번호 불일치 시 DB 저장된 정보 삭제됨 | 회원가입 페이지 이동하여 새로운 정보 요구함
 
-<img width="150" height="200" alt="스크린샷 2022-11-05 오전 4 01 28" src="https://user-images.githubusercontent.com/26247241/200054792-488a5662-2d2e-423a-be48-983b04d796ce.png">    <img width="350" height="200" alt="4-3" src="https://user-images.githubusercontent.com/26247241/200050736-cfd49c37-fb7a-44bf-81a0-abe26b65b9a7.png">     <img width="350" height="200" alt="4-4" src="https://user-images.githubusercontent.com/26247241/200050741-1f46b378-28ec-4c9e-aee1-414e50f879c9.png">
+<img width="150" height="200" alt="스크린샷 2022-11-05 오전 4 01 28" src="https://user-images.githubusercontent.com/26247241/200054792-488a5662-2d2e-423a-be48-983b04d796ce.png">    <img width="250" height="200" alt="4-3" src="https://user-images.githubusercontent.com/26247241/200050736-cfd49c37-fb7a-44bf-81a0-abe26b65b9a7.png">     <img width="250" height="200" alt="4-4" src="https://user-images.githubusercontent.com/26247241/200050741-1f46b378-28ec-4c9e-aee1-414e50f879c9.png">
 
 
 - timespent : 2016.06~08
@@ -30,4 +30,5 @@
 - functions : 회원 가입, 로그인/로그아웃, 휴대폰 인증
 
 
-- content : ID, Password, 휴대폰 번호를 기반으로 회원 정보 생성 과정 중 휴대포 인증하여 DB 저장함. DB 등록된 회원들 가운데 로그인/아웃 이용 가능하도록 구현함.
+- content : ID, Password, 휴대폰 번호를 기반으로 회원 정보 생성 과정 중 휴대포 인증하여 DB 저장함. 
+DB 등록된 회원들 가운데 로그인/아웃 이용 가능하도록 구현함.
