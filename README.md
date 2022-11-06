@@ -25,7 +25,7 @@
 <img width="150" height="200" alt="스크린샷 2022-11-05 오전 4 01 28" src="https://user-images.githubusercontent.com/26247241/200054792-488a5662-2d2e-423a-be48-983b04d796ce.png">    <img width="250" height="200" alt="4-3" src="https://user-images.githubusercontent.com/26247241/200050736-cfd49c37-fb7a-44bf-81a0-abe26b65b9a7.png">     <img width="250" height="200" alt="4-4" src="https://user-images.githubusercontent.com/26247241/200050741-1f46b378-28ec-4c9e-aee1-414e50f879c9.png">
 
 
-- timespent : 2016.06~08
+- timespent : 2017.04~06
 
 
 - tech : Eclipse, ApacheTomcat, OracleSQLDeveloper, JAVA, JAVASCRIPT, SQL
