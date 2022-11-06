@@ -1,6 +1,10 @@
 # Loginout-Auth-Api
 
-- 프로젝트 구성 | 인덱스 페이지 | 로그인/회원가입 확인 페이지
+- 구성도
+
+<img width="300" height="200" alt="스크린샷 2022-11-06 오후 3 21 22" src="https://user-images.githubusercontent.com/26247241/200157292-2a688cad-1251-4b10-8709-83f131e91a48.png">
+
+- 파일 레이아웃 | 인덱스 페이지 | 로그인/회원가입 확인 페이지
 
 <img width="200" height="150" alt="0" src="https://user-images.githubusercontent.com/26247241/200050687-ae4649dd-1fdd-40e3-8411-e302b492f36a.png">  <img width="200" height="150" alt="1" src="https://user-images.githubusercontent.com/26247241/200050702-616fb9d0-b041-4830-b86a-02cc871e77f1.png">. <img width="200" height="150" alt="5" src="https://user-images.githubusercontent.com/26247241/200050743-4a8be8fd-3d70-48de-92fc-2d0716c6171f.png">
 
