@@ -2,7 +2,7 @@
 
 - 구성도
 
-<img width="300" height="200" alt="스크린샷 2022-11-06 오후 3 21 22" src="https://user-images.githubusercontent.com/26247241/200157292-2a688cad-1251-4b10-8709-83f131e91a48.png">
+<img width="450" height="250" alt="스크린샷 2022-11-06 오후 3 21 22" src="https://user-images.githubusercontent.com/26247241/200157292-2a688cad-1251-4b10-8709-83f131e91a48.png">
 
 - 파일 레이아웃 | 인덱스 페이지 | 로그인/회원가입 확인 페이지
 
