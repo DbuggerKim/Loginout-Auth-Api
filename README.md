@@ -2,7 +2,7 @@
 
 - 구성도
 
-<img width="550" height="250" alt="스크린샷 2022-11-06 오후 3 21 22" src="https://user-images.githubusercontent.com/26247241/200157292-2a688cad-1251-4b10-8709-83f131e91a48.png">
+<img width="550" height="300" alt="스크린샷 2022-11-06 오후 3 21 22" src="https://user-images.githubusercontent.com/26247241/200157292-2a688cad-1251-4b10-8709-83f131e91a48.png">
 
 - 파일 레이아웃 | 인덱스 페이지 | 로그인/회원가입 확인 페이지
 
@@ -25,14 +25,13 @@
 <img width="150" height="200" alt="스크린샷 2022-11-05 오전 4 01 28" src="https://user-images.githubusercontent.com/26247241/200054792-488a5662-2d2e-423a-be48-983b04d796ce.png">    <img width="250" height="200" alt="4-3" src="https://user-images.githubusercontent.com/26247241/200050736-cfd49c37-fb7a-44bf-81a0-abe26b65b9a7.png">     <img width="250" height="200" alt="4-4" src="https://user-images.githubusercontent.com/26247241/200050741-1f46b378-28ec-4c9e-aee1-414e50f879c9.png">
 
 
-- timespent : 2017.04~06
+> timespent : 2017.04~06
 
 
-- tech : Eclipse, ApacheTomcat, OracleSQLDeveloper, JAVA, JAVASCRIPT, SQL
+> tech : Eclipse, ApacheTomcat, OracleSQLDeveloper, JAVA, JAVASCRIPT, SQL
 
 
-- functions : 회원 가입, 로그인/로그아웃, 휴대폰 인증
+> functions : 회원 가입, 로그인/로그아웃, 휴대폰 인증
 
 
-- content : ID, Password, 휴대폰 번호를 기반으로 회원 정보 생성 과정 중 휴대포 인증하여 DB 저장함. 
-DB 등록된 회원들 가운데 로그인/아웃 이용 가능하도록 구현함.
+> contents : 휴대폰 번호 기반 회원 인증하여 회원 가입 기능, DB 등록된 회원 기반 로그인/아웃 기능 구현
